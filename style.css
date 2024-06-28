@@ -1,0 +1,96 @@
+*{
+    margin:0px;
+    padding:0px;
+  
+}
+#maincontainer1{
+    height:100vh;
+    border:2px solid black;
+
+    background-image:url(pexels-photo-1250282.webp);
+    background-size:cover;
+    position:relative;
+
+ 
+   
+    
+}
+#innerdiv2{
+   
+    height:600px;
+    width:250px;
+    background-color:rgb(20, 12, 12);
+    
+   
+
+ 
+}
+#innerdiv3a{
+    height:30px;
+    width:250px;
+
+    position:absolute;
+    margin-left:5px;
+    margin-top:10px;
+    font-size:20px;
+    color :white;
+    font-weight:bold;
+    
+ 
+}
+#innerdiv3b{
+    height:400px;
+    width:145px;
+   
+    font-size:22px;
+    word-spacing:15px;
+    color:white;
+   
+    padding-top:40px;
+
+}
+.button{
+    margin-left:7px;
+    color:white;
+  
+
+}
+
+#innerdiv3b .list:hover{
+    box-shadow: 0 0 7px rgb(72, 71, 71);;
+}
+
+
+#contact{
+    
+margin-left:0px;
+}
+.list{
+    padding-top:20px;
+    padding-left:4px;
+}
+#menu:hover{
+    font-size:30px;
+}
+#innerdiv3c{
+    
+    width:250px;
+    height:60px;
+}
+.images{
+    width:30px;
+    height:30px;
+    opacity:0.5;
+    position:relative;
+    padding-left:10px;
+}
+#image1{
+    width:40px;
+    height:40px;
+    position:relative;
+    margin-top:10px;
+}
+#innerdiv3c .images:hover{
+opacity:1;
+}
+ 
